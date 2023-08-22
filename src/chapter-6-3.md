@@ -1,5 +1,4 @@
-ChatGPT-Based Tools for Preventing Cybercrimes
-============================================================================================================
+
 
 In this chapter, we will discuss ChatGPT-based tools for preventing cybercrimes by detecting potential cyber threats in real-time.
 

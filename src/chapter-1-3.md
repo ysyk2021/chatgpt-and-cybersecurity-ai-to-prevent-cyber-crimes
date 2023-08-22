@@ -1,5 +1,4 @@
-The Role of ChatGPT in Preventing Cyber Crimes
-=======================================================================
+
 
 In this chapter, we will introduce the concept of ChatGPT and its role in preventing cyber crimes.
 

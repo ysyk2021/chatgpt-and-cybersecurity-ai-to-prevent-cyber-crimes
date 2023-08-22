@@ -1,5 +1,4 @@
-Using ChatGPT for Detecting Cyber Threats in Real-Time
-====================================================================================================================
+
 
 In this chapter, we will discuss how ChatGPT can be used for detecting cyber threats in real-time.
 

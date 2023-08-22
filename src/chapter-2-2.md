@@ -1,5 +1,4 @@
-Different Types of Cyber Threats and Their Impact
-============================================================================================================
+
 
 In this chapter, we will discuss the different types of cyber threats and their impact on individuals and businesses.
 

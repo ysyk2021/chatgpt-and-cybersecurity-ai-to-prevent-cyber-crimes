@@ -1,5 +1,4 @@
-Introduction to ChatGPT-based Cybersecurity Tools
-===============================================================================================================
+
 
 In this chapter, we will introduce ChatGPT-based cybersecurity tools that can be used for cyber threat detection and prevention.
 

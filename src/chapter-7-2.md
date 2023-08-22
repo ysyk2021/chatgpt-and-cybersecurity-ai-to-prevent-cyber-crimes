@@ -1,5 +1,4 @@
-Potential Limitations of Using ChatGPT in Cybersecurity
-=============================================================================================================================
+
 
 In this chapter, we will discuss the potential limitations associated with using ChatGPT for cybersecurity.
 

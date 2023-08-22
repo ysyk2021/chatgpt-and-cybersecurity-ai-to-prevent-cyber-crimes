@@ -1,5 +1,4 @@
-Chapter 4: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will provide an introduction to ChatGPT, discussing what it is, its features and capabilities, and how it can be used for preventing cyber crimes.
 
