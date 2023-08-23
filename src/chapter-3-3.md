@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the role of artificial intelligence (AI) and chatbots in cybersecurity and discuss the benefits of using these technologies for preventing cyber crimes.
 
 The Role of AI and Chatbots in Cybersecurity

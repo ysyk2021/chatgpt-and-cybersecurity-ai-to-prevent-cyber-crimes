@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT-based cybersecurity tools that can be used for cyber threat detection and prevention.
 
 The Role of AI in Cybersecurity

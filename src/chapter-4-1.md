@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of what ChatGPT is and how it works. This will allow readers to better understand the potential benefits of using ChatGPT for preventing cyber crimes.
 
 Definition of ChatGPT

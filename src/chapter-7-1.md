@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the unique challenges associated with ChatGPT-based cybersecurity.
 
 The Potential of AI in Cybersecurity
