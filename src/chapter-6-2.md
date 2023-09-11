@@ -1,5 +1,4 @@
-Chapter: Using ChatGPT for Detecting Cyber Threats in Real-Time
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of cybersecurity, staying ahead of evolving cyber threats is crucial for organizations to protect their sensitive data and infrastructure. This chapter explores the potential of using ChatGPT, powered by artificial intelligence (AI), as a tool for detecting cyber threats in real-time. It delves into the capabilities, benefits, and challenges associated with this approach.
 

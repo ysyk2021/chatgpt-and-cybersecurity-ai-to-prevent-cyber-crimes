@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Preventing Cyber Crimes
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Using ChatGPT in preventing cyber crimes requires careful consideration and adherence to best practices. This chapter introduces essential guidelines for leveraging ChatGPT effectively within cybersecurity frameworks. Following these practices will help enhance the capabilities of ChatGPT and contribute to robust cybercrime prevention strategies.
 

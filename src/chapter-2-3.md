@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Businesses and Individuals in Cybersecurity
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing effective cybersecurity measures is crucial for businesses and individuals alike. However, there are numerous challenges that they often encounter in their efforts to protect themselves from cyber threats. This chapter explores some of the common challenges faced by businesses and individuals in the realm of cybersecurity.
 

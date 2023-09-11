@@ -1,5 +1,4 @@
-Chapter: Potential Limitations of Using ChatGPT in Cybersecurity
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While ChatGPT and AI technology offer significant potential for cybersecurity, it is essential to acknowledge their limitations. This chapter discusses some of the potential shortcomings that organizations should consider when utilizing ChatGPT for cybersecurity purposes. Understanding these limitations will help users make informed decisions and implement appropriate mitigations.
 

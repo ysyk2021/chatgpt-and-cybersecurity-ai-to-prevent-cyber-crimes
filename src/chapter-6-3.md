@@ -1,5 +1,4 @@
-Chapter: ChatGPT-Based Tools for Preventing Cybercrimes
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the battle against cybercrimes, leveraging advanced technologies is crucial. ChatGPT, powered by artificial intelligence (AI), can be utilized as a powerful tool for preventing cybercrimes. This chapter explores the potential of using ChatGPT-based tools in cybersecurity and highlights their applications and benefits in the fight against cyber threats.
 

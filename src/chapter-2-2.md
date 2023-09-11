@@ -1,5 +1,4 @@
-Chapter: Different Types of Cyber Threats and Their Impact
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cyber threats pose significant risks to individuals, businesses, and even nations. This chapter explores various types of cyber threats and their potential impact on targets. Understanding these threats is crucial for developing effective cybersecurity strategies and safeguarding against potential harm.
 

@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced language model that utilizes state-of-the-art artificial intelligence (AI) techniques to generate human-like responses in a conversational manner. It is designed to understand and generate text based on user input, making it a powerful tool for various applications, including cybersecurity. This chapter provides an overview of ChatGPT, its architecture, and its capabilities.
 

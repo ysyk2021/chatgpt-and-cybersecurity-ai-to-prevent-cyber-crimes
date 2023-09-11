@@ -1,5 +1,4 @@
-Chapter: Unique Challenges Associated with ChatGPT-based Cybersecurity
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the use of ChatGPT and AI technology continues to increase in the realm of cybersecurity, several unique challenges arise. This chapter explores some of the specific challenges associated with utilizing ChatGPT-based systems for cybersecurity purposes. Understanding these challenges is essential for effectively leveraging AI technology while ensuring robust cybersecurity defenses.
 

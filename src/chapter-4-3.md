@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Preventing Cyber Crimes
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, with its natural language processing capabilities, can be a powerful tool in preventing cyber crimes. This chapter explores how ChatGPT can be leveraged to enhance cybersecurity measures, detect threats, and empower users to stay safe in the digital landscape.
 

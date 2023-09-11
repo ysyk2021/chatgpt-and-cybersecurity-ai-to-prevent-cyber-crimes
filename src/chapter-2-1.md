@@ -1,5 +1,4 @@
-Chapter: Definition of Cybersecurity and Its Importance
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Cybersecurity plays a crucial role in today's interconnected digital world. This chapter provides a comprehensive definition of cybersecurity, explores its importance, and highlights the need for effective cybersecurity measures to prevent cyber crimes.
 
